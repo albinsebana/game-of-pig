@@ -1,0 +1,8 @@
+C:\Users\albin.kurian\Desktop\DotNet\section 6\GameofPig\GameofPig\bin\Debug\GameofPig.exe.config
+C:\Users\albin.kurian\Desktop\DotNet\section 6\GameofPig\GameofPig\bin\Debug\GameofPig.exe
+C:\Users\albin.kurian\Desktop\DotNet\section 6\GameofPig\GameofPig\bin\Debug\GameofPig.pdb
+C:\Users\albin.kurian\Desktop\DotNet\section 6\GameofPig\GameofPig\obj\Debug\GameofPig.csproj.AssemblyReference.cache
+C:\Users\albin.kurian\Desktop\DotNet\section 6\GameofPig\GameofPig\obj\Debug\GameofPig.csproj.SuggestedBindingRedirects.cache
+C:\Users\albin.kurian\Desktop\DotNet\section 6\GameofPig\GameofPig\obj\Debug\GameofPig.csproj.CoreCompileInputs.cache
+C:\Users\albin.kurian\Desktop\DotNet\section 6\GameofPig\GameofPig\obj\Debug\GameofPig.exe
+C:\Users\albin.kurian\Desktop\DotNet\section 6\GameofPig\GameofPig\obj\Debug\GameofPig.pdb
